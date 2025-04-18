@@ -4,7 +4,7 @@
 ![ToPu_LockLockTolls](https://github.com/user-attachments/assets/f2cf00fb-0a98-47d0-853e-2c7bb2946127)
 
 ## 入手方法
-最新版は[ Code > Download ZIP](https://example.com/download) または Dev ブランチから ZIP ファイルをダウンロードしてください。
+最新版は[ Code > Download ZIP]([https://example.com/download](https://github.com/http4211/ToPu_LockLockTool/releases/tag/1.0.0)) または Dev ブランチから ZIP ファイルをダウンロードしてください。
 
 ## 機能
 #### オブジェクトモードでの動作
