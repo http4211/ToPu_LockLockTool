@@ -1,9 +1,30 @@
 # ToPu_LockLockTool
-
+### 3Dビュー上で [オブジェクトの選択可否／編集モードでの頂点ロック] ショートカットでサクッと切り替え！
 ![ToPu_LockLockTolls](https://github.com/user-attachments/assets/f2cf00fb-0a98-47d0-853e-2c7bb2946127)
+
 ---
-## 3Dビュー上で、オブジェクトの選択可否／編集モードでの頂点ロックを、ショートカットでサクッと切り替え！
-#### ショートカットは好きなキーに自由に割り当てOK！
+
+
+## オブジェクトモードでの動作
+
+<p>&nbsp;&nbsp;・ショートカットでオブジェクトを選択不可にすると、自動的に半透明表示になります。</p>
+
+<p>&nbsp;&nbsp;・元に戻すときは、アドオンのショートカットをご使用ください（半透明表示も同時に解除されます）。</p> 
+<p>&nbsp;&nbsp; ※アウトライナーで選択可に戻すことも可能ですが、その場合は半透明表示は解除されません。</p>
+
+
+![オブジェクト選択](https://github.com/user-attachments/assets/23215f96-ad19-4697-aca5-c4b061597e07)
+
+
+
+## 編集モードでの動作
+
+![編集モード](https://github.com/user-attachments/assets/177bf33d-1b38-4245-8974-1c8825148699)
+
+
+---
+
+### ショートカットは好きなキーに自由に割り当てOK！
   
 <pre>・オブジェクトモード</font>
   
@@ -30,27 +51,6 @@
 
 
 
-![image](https://github.com/user-attachments/assets/e8269d98-697c-482c-abe3-12089244c4e6)
+![image](https://github.com/user-attachments/assets/1a7d50ac-26a1-4e69-8c85-0a51b2a867ff)
 ![シェーダー](https://github.com/user-attachments/assets/3f1865eb-885e-4da3-8022-4883821b883a)
-
----
-
-
-## オブジェクトモードでの動作
-
-<p>&nbsp;&nbsp;・ショートカットでオブジェクトを選択不可にすると、自動的に半透明表示になります。</p>
-
-<p>&nbsp;&nbsp;・元に戻すときは、アドオンのショートカットをご使用ください（半透明表示も同時に解除されます）。</p> 
-<p>&nbsp;&nbsp; ※アウトライナーで選択可に戻すことも可能ですが、その場合は半透明表示は解除されません。</p>
-
-
-![オブジェクト選択](https://github.com/user-attachments/assets/23215f96-ad19-4697-aca5-c4b061597e07)
-
-
-
-## 編集モードでの動作
-
-![編集モード](https://github.com/user-attachments/assets/177bf33d-1b38-4245-8974-1c8825148699)
-
-
 
