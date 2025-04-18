@@ -1,4 +1,51 @@
 # ToPu_LockLockTool
-BlenderAddon:Toggle object selectability or hide selected vertices in edit mode
-![オブジェクト選択](https://github.com/user-attachments/assets/6be8447b-5d5a-4f8f-b8c8-eadce6726fda)
-![編集モード](https://github.com/user-attachments/assets/462e88e3-26ca-4ef6-a143-c8f20a560add)
+
+![ToPu_LockLockTolls](https://github.com/user-attachments/assets/f2cf00fb-0a98-47d0-853e-2c7bb2946127)
+---
+## 3Dビューから直接オブジェクトの選択可否/編集モードでは頂点のロック をショートカットにより簡単に切り替えられます！
+#### ショートカットを自由に設定してお使いください！
+  
+<pre>・オブジェクトモード</font>
+  
+    ・選択オブジェクトを選択不可に（選択をロック）　　　　　　        デフォルトキー:　    4
+  
+    ・全選択不可オブジェクトを選択可能に（ロック解除）　　　　        デフォルトキー:  alt+4
+ 
+    ・選択オブジェクト以外を選択不可に(選択以外ロック)               デフォルトキー: ctrl+4
+
+
+・編集モード
+  
+    ・選択頂点を選択不可に（選択をロック）　　　　　　               デフォルトキー:　    4
+ 
+    ・選択オブジェクトの選択不可頂点を選択可能に（ロック解除）　　　　デフォルトキー:  alt+4
+ 
+    ・選択頂点以外を選択不可に(選択以外ロック)                      デフォルトキー: ctrl+4</pre>
+
+**ビューポートシェーディングをオブジェクトに設定すると選択不可オブジェクトが半透明になって確認しやすくなります。**
+
+注：オブジェクトモード/メッシュで同じキー名になっていますが、別々の挙動のものになっています。
+
+![image](https://github.com/user-attachments/assets/e8269d98-697c-482c-abe3-12089244c4e6)
+![シェーダー](https://github.com/user-attachments/assets/3f1865eb-885e-4da3-8022-4883821b883a)
+
+---
+
+
+## オブジェクトモードでの動作
+
+<p>&nbsp;&nbsp;・ショートカットで選択不可にした場合半透明表示になります。</p>
+
+<p>&nbsp;&nbsp;・選択不可を戻す場合、アドオンのショートカットを使用してください。（自動的に半透明も治ります。アウトライナーでも選択を戻せますが、半透明はショートカットを押さないと治りません。）</p>
+
+
+![オブジェクト選択](https://github.com/user-attachments/assets/23215f96-ad19-4697-aca5-c4b061597e07)
+
+
+
+## 編集モードでの動作
+
+![編集モード](https://github.com/user-attachments/assets/177bf33d-1b38-4245-8974-1c8825148699)
+
+
+
