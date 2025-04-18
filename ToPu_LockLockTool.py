@@ -3,9 +3,8 @@ bl_info = {
     "author": "ToPu",
     "version": (1, 0),
     "blender": (4, 0, 0),
-    "location": "Shortcut: 4 / Alt + 4 / Ctrl + 4(customizable in preferences)",
+    'tracker_url': 'https://github.com/http4211/ToPu_LockLockTool',
     "description": "Toggle object selectability or hide selected vertices in edit mode",
-    "category": "Object",
 }
 
 import bpy
