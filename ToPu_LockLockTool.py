@@ -88,7 +88,7 @@ class OBJECT_OT_reset_all_locks_and_hides(bpy.types.Operator):
                 bpy.context.view_layer.objects.active = edit_objs[0]
             bpy.ops.object.mode_set(mode='EDIT')
 
-            self.report({'INFO'}, "編集中のオブジェクトの頂点をロックしました")
+            self.report({'INFO'}, "Vertices of the object being edited have been locked")
 
         else:
             # 編集モード以外のときは、選択不可とalphaの解除のみ
@@ -98,7 +98,7 @@ class OBJECT_OT_reset_all_locks_and_hides(bpy.types.Operator):
                     obj.color[3] = obj["_original_alpha"]
                     del obj["_original_alpha"]
 
-            self.report({'INFO'}, "全オブジェクトのロックとアルファを解除しました")
+            self.report({'INFO'}, "All objects are unlocked and alpha removed")
 
         return {'FINISHED'}
 
