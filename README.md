@@ -1,11 +1,13 @@
 # ToPu_LockLockTool
-### 3Dビュー上で [オブジェクトの選択可否／編集モードでの頂点ロック] ショートカットでサクッと切り替え！
+#### 3Dビュー上で [オブジェクトの選択可否／編集モードでの頂点ロック] ショートカットでサクッと切り替え！
+
 ![ToPu_LockLockTolls](https://github.com/user-attachments/assets/f2cf00fb-0a98-47d0-853e-2c7bb2946127)
 
----
+## 入手方法
+最新版は[ Code > Download ZIP](https://example.com/download) または Dev ブランチから ZIP ファイルをダウンロードしてください。
 
-
-## オブジェクトモードでの動作
+## 機能
+#### オブジェクトモードでの動作
 
 <p>&nbsp;&nbsp;・ショートカットでオブジェクトを選択不可にすると、自動的に半透明表示になります。</p>
 
@@ -17,7 +19,7 @@
 
 
 
-## 編集モードでの動作
+#### 編集モードでの動作
 
 ![編集モード](https://github.com/user-attachments/assets/177bf33d-1b38-4245-8974-1c8825148699)
 
@@ -25,7 +27,6 @@
 ---
 
 ### ショートカットは好きなキーに自由に割り当てOK！
----  
 <pre>・オブジェクトモード</font>
   
     ・選択オブジェクトを選択不可に（選択をロック）　　　　　　        デフォルトキー:　    4
@@ -54,4 +55,8 @@
 
 ![image](https://github.com/user-attachments/assets/1a7d50ac-26a1-4e69-8c85-0a51b2a867ff)
 ![シェーダー](https://github.com/user-attachments/assets/3f1865eb-885e-4da3-8022-4883821b883a)
+
+
+## 導入方法
+Blender の Edit > Preferences > Addons > Install を開き、ダウンロードしたアドオンの ZIP ファイルを選択してインストールボタンを押します。 インストール後、該当するアドオンの左側についているチェックボックスを ON にします。
 
