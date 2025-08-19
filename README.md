@@ -4,7 +4,7 @@
 ![ToPu_LockLockTolls](https://github.com/user-attachments/assets/f2cf00fb-0a98-47d0-853e-2c7bb2946127)
 
 ## 入手方法
-最新版は[Code > Download ZIP](https://github.com/http4211/ToPu_LockLockTool/releases) または Dev ブランチから ZIP ファイルをダウンロードしてください。
+最新版は[Releasesまたはこちらから](https://github.com/http4211/ToPu_LockLockTool/releases)  ZIP ファイルをダウンロードしてください。
 
 ## 機能
 #### オブジェクトモードでの動作
@@ -28,8 +28,26 @@
 
 
 ---
+## ヘッダーアイコン
+<img width="159" height="28" alt="image" src="https://github.com/user-attachments/assets/318b7459-b803-4e09-bd23-de61441c8424" />
 
-### ⚙️ ショートカットは好きなキーに自由に割り当てOK！
+右上のヘッダーにショートカットアイコンを実装しました。
+
+ロックアイコンで、選択しているオブジェクトまたは頂点をロックできます。
+
+ロックアイコンをshift+左クリックするとビューポートシェーディングをオブジェクトに即時変更できるようになりました。
+
+ロック解除アイコンで、選択しているオブジェクトの頂点のロック解除またはオブジェクトのロック解除ができます。
+
+
+
+
+---
+
+
+
+
+### ⚙️ アドオンプリファレンス
 <pre>・オブジェクトモード</font>
   
     ・選択オブジェクトを選択不可に（選択をロック）　　　　　　        デフォルトキー:　    4
@@ -48,15 +66,17 @@
     ・選択頂点以外を選択不可に(選択以外ロック)                      デフォルトキー: ctrl+4</pre>
 
 
+※旧バージョンではオブジェクトモード編集モードでキーを分けて登録できましたが、現在のバージョンでは一本化しています。
+
 ビューポートシェーディングを“オブジェクト”に設定すると、選択不可のオブジェクトが半透明で表示され、視認性がアップします。
 
-※オブジェクトモード／メッシュモードで同じキー名が使われていますが、それぞれ異なる動作をします。
+ヘッダーアイコンの表示の可否を設定できます。(デフォルトオン)
+
+ロック解除したオブジェクトを選択するか設定できます。(デフォルトオフ)
 
 
+<img width="531" height="329" alt="image" src="https://github.com/user-attachments/assets/a59e0f53-ecad-4d57-94bc-daa79e24fc18" />
 
-
-
-![image](https://github.com/user-attachments/assets/1a7d50ac-26a1-4e69-8c85-0a51b2a867ff)
 ![シェーダー](https://github.com/user-attachments/assets/3f1865eb-885e-4da3-8022-4883821b883a)
 
 
