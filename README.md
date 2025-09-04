@@ -1,4 +1,4 @@
-# ToPu_LockLockTool [NEW] 1.4 
+# ToPu_LockLockTool [NEW] 1.4.1
 #### 3Dビュー上で [オブジェクトの選択可否／編集モードでの頂点ロック] ショートカットでサクッと切り替え！
 
 ![ToPu_LockLockTolls](https://github.com/user-attachments/assets/f2cf00fb-0a98-47d0-853e-2c7bb2946127)
